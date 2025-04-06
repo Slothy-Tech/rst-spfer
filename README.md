@@ -1,4 +1,4 @@
-<h1 align="center">🎮 Rust Spoofer</h1>
+<h1 align="center">Rust Spoofer: Get around bans in minutes🎮</h1>
 <p align="center">Helping you reclaim the wastelands of Rust — fast, safe, and undetected.</p>
 
 <p align="center">
